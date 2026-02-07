@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00CCFF&height=200&section=header&text=CiberFlores&fontSize=70&animation=fadeIn&fontColor=ffffff&desc=Ingeniero%20de%20Sistemas%20|%20Ciberseguridad%20|%20Ethical%20Hacker&descAlignY=65&descSize=22"/>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=PROFILE+VIEWS&style=flat-square&color=00CCFF" alt="views" />
+    <img src="https://komarev.com/ghpvc/?username=CiberFlores&label=PROFILE+VIEWS&style=flat-square&color=00CCFF" alt="views" />
   </p>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CiberFlores&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="trophies" />
 </div>
 
 <br>
@@ -29,14 +29,14 @@
 
 <h3 align="center">🐍 Actividad de Red (Snake)</h3>
 <div align="center">
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github.com/CiberFlores/CiberFlores/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=00CCFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=00CCFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CiberFlores&show_icons=true&theme=tokyonight&hide_border=true&title_color=00CCFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiberFlores&layout=compact&theme=tokyonight&hide_border=true&title_color=00CCFF" />
 </div>
 
 <div align="center">
