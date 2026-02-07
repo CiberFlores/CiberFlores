@@ -27,9 +27,18 @@
 
 <br>
 
+<h3 align="center">🏅 Certificaciones & Logros</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Certification-eJPT-blue?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Hacking-Ethical_Hacker-green?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/Security-Blue_Team-red?style=for-the-badge" />
+</div>
+
+<br>
+
 <h3 align="center">🐍 Actividad de Red (Snake)</h3>
 <div align="center">
-  <img src="https://github.com/CiberFlores/CiberFlores/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/CiberFlores/CiberFlores/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br>
